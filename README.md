@@ -3,9 +3,9 @@
 
 Add Otto library in build.gradle file 
 
-```dependencies {
+```dependencies {```
 
-  compile 'com.squareup:otto:1.3.8'
+ ``` compile 'com.squareup:otto:1.3.8'```
   
 }```
 

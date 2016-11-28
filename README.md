@@ -7,6 +7,6 @@ Add Otto library in build.gradle file
 
  ``` compile 'com.squareup:otto:1.3.8'```
   
-}
+```}```
 
 
